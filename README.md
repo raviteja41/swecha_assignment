@@ -3,7 +3,7 @@
 ## minimum criteria should be the following
 - They should be able to use select options, multi select options
 - No stress on layout or beautification, but they should be able to select the dataset dynamically
-- They can use the library whatever they to show the plot and graphs
+- They can use the library whatever they are comfortable with,to show the plot and graphs
 
 ## Solution for the assignment
 
